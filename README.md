@@ -1,5 +1,5 @@
 # Image_recognizing_macro
-• Done as a personal project during working in a finance company<br/>
+• Done as a personal project during working in a financial company<br/>
 • It does the repetitive work, but requiring to wait random time for each step is done.<br/>
 • This is done by waiting until some images pop up to the screen.<br/>
 • This program is designed for specific work I'd done while I was working, hence not suitable for general works.<br/>
